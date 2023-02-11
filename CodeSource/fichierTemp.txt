@@ -1,0 +1,6 @@
+ in r1
+jzs #20 
+    sub r1, r0, r1
+    out r1
+jmp #0 
+ hlt
